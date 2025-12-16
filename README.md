@@ -11,9 +11,8 @@
 
 * **Current Focus:** I'm currently working on **building robust and scalable full-stack web solutions**.
 * **Collaboration:** I'm actively looking to collaborate on **Web and mobile app solutions that help solve community problems**.
-* **Tech Interests:** I focus on the MERN stack (MongoDB, Express, React, Node.js) and data-driven solutions using Python.
-* **Portfolio/Blog:** *[Add Link to your Personal Website or Portfolio here]*
-* **Reach Me:** Connect with me directly via email at **arnoldbeeka@gmail.com**.
+* **Tech Interests:** I focus on the MMERN stack (MongoDB, MySQL Express, React, Node.js) and data-driven solutions using Python.
+* **Reach Out to Me:** Connect with me directly via email at **arnoldbeeka@gmail.com**.
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
@@ -26,7 +25,7 @@
 
 ## 💻 Languages and Tools (My Stack)
 
-<p align="center">
+<p align="center" display="flex" justify-content="space-between">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
     </a>
